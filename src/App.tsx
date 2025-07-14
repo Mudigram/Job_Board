@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'react';
 import { supabase } from './lib/supabase';
 import { ChevronsUp, Info, Mail } from 'lucide-react';
 import { Moon, Sun } from "lucide-react";
+import { Analytics } from "@vercel/analytics/next"
 
 // Job type definition
 type Job = {
@@ -258,6 +259,7 @@ function App() {
         )}
 
       </div>
+      <Analytics />
 
       {/* Footer */}
       <footer className="w-full px-4 py-8 bg-[#F8F8F8] dark:bg-[#1a1a1a] border-t border-[#E5E7EB] dark:border-[#333] text-center">
