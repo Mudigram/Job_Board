@@ -67,7 +67,7 @@ job-board/
 Built by [@Mudigram](https://github.com/Mudigram)
 
 Want to collaborate or hire?  
-📧 [mudigram@gmail.com](mailto:mudigram@gmail.com)
+📧 [omene.mudiaga@gmail.com](mailto:omene.mudiaga@gmail.com)
 
 ---
 
